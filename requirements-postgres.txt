@@ -1,0 +1,7 @@
+openai
+python-dotenv
+langgraph
+langgraph-checkpoint-postgres
+psycopg[binary,pool]
+socksio
+pytest

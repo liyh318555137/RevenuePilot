@@ -1,0 +1,19 @@
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_DB: sales_agent
+      POSTGRES_USER: sales_agent
+      POSTGRES_PASSWORD: sales_agent_dev
+    ports:
+      - "5432:5432"
+    volumes:
+      - sales_agent_postgres:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U sales_agent -d sales_agent"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  sales_agent_postgres:

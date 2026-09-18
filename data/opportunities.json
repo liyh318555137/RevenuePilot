@@ -1,0 +1,62 @@
+[
+  {
+    "id": "C101",
+    "opportunity_id": "OP101",
+    "customer_id": "C101",
+    "company": "恒晟智能制造"
+  },
+  {
+    "id": "C102",
+    "opportunity_id": "OP102",
+    "customer_id": "C102",
+    "company": "中科智联科技"
+  },
+  {
+    "id": "C103",
+    "opportunity_id": "OP103",
+    "customer_id": "C103",
+    "company": "华瑞医药物流"
+  },
+  {
+    "id": "C104",
+    "opportunity_id": "OP104",
+    "customer_id": "C104",
+    "company": "启明教育科技"
+  },
+  {
+    "id": "C105",
+    "opportunity_id": "OP105",
+    "customer_id": "C105",
+    "company": "蓝湾文旅发展"
+  },
+  {
+    "id": "C106",
+    "opportunity_id": "OP106",
+    "customer_id": "C106",
+    "company": "恒安保险经纪"
+  },
+  {
+    "id": "C107",
+    "opportunity_id": "OP107",
+    "customer_id": "C107",
+    "company": "骏驰汽车零部件"
+  },
+  {
+    "id": "C108",
+    "opportunity_id": "OP108",
+    "customer_id": "C108",
+    "company": "天工建筑设计院"
+  },
+  {
+    "id": "C109",
+    "opportunity_id": "OP109",
+    "customer_id": "C109",
+    "company": "云图供应链管理"
+  },
+  {
+    "id": "C110",
+    "opportunity_id": "OP110",
+    "customer_id": "C110",
+    "company": "银河能源控股"
+  }
+]

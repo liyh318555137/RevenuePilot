@@ -1,0 +1,35 @@
+[
+  {
+    "product_name": "Starter",
+    "price_range": "5万-15万元",
+    "target_customer": "小型团队或早期试点",
+    "features": [
+      "基础AI客服",
+      "FAQ知识库",
+      "基础统计"
+    ]
+  },
+  {
+    "product_name": "Professional",
+    "price_range": "20万-60万元",
+    "target_customer": "中型企业",
+    "features": [
+      "高级AI客服",
+      "CRM集成",
+      "数据分析",
+      "多渠道接入"
+    ]
+  },
+  {
+    "product_name": "Enterprise",
+    "price_range": "60万-150万元",
+    "target_customer": "大型企业和复杂业务",
+    "features": [
+      "高级AI客服",
+      "复杂系统集成",
+      "私有化部署",
+      "高级安全控制",
+      "定制化工作流"
+    ]
+  }
+]

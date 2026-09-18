@@ -1,0 +1,8 @@
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+checkpoints.sqlite
+sales_memory.sqlite
+knowledge/
+eval_results/

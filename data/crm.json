@@ -1,0 +1,74 @@
+[
+  {
+    "id": "C101",
+    "company": "恒晟智能制造",
+    "deal_amount": 800000,
+    "stage": "需求确认",
+    "budget": "预算已经批准，预算约85万元",
+    "competitor": "竞争对手A公司，主打低价策略",
+    "decision_maker": "CTO"
+  },
+  {
+    "id": "C102",
+    "company": "中科智联科技",
+    "deal_amount": 1200000,
+    "stage": "商务谈判",
+    "budget": "预算已经正式批准，预算120万元",
+    "competitor": "未知",
+    "decision_maker": "CEO"
+  },
+  {
+    "id": "C103",
+    "company": "华瑞医药物流",
+    "deal_amount": 600000,
+    "stage": "方案评估",
+    "budget": "目前预算只有25万元",
+    "competitor": "竞争对手B已经完成第一轮POC",
+    "decision_maker": "采购总监"
+  },
+  {
+    "id": "C104",
+    "company": "启明教育科技",
+    "deal_amount": 300000,
+    "stage": "需求确认",
+    "budget": "预算待CFO审批，预计35万元",
+    "competitor": "两家竞品正在同时接触",
+    "decision_maker": "IT总监"
+  },
+  {
+    "id": "C105",
+    "company": "蓝湾文旅发展",
+    "deal_amount": 80000,
+    "stage": "初步接触",
+    "budget": "尚未确认预算",
+    "competitor": "未知",
+    "decision_maker": "尚未确定，目前由市场部专员对接"
+  },
+  {
+    "id": "C106",
+    "company": "恒安保险经纪",
+    "deal_amount": 500000,
+    "stage": "需求确认",
+    "budget": "预算已经批准，预算50万元",
+    "competitor": "竞争对手A公司",
+    "decision_maker": "CTO"
+  },
+  {
+    "id": "C108",
+    "company": "天工建筑设计院",
+    "deal_amount": 700000,
+    "stage": "方案评估",
+    "budget": "预算已经批准，预算约70万元",
+    "competitor": "未知",
+    "decision_maker": "CFO"
+  },
+  {
+    "id": "C110",
+    "company": "银河能源控股",
+    "deal_amount": 950000,
+    "stage": "方案评估",
+    "budget": "预算已经批准，预算100万元",
+    "competitor": "竞争对手C已经进入合同谈判阶段",
+    "decision_maker": "CIO"
+  }
+]
